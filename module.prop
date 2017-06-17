@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=disable_nfc_icon
+name=Disable NFC Icon
+version=0.0.0
+versionCode=0
+author=fkuo
+description=Disables NFC icon in status bar
 template=3
